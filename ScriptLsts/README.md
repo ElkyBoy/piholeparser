@@ -1,3 +1,1 @@
-This is where we will put lists.
-
-Folder names hopefully tell you what they are
+Сюда помещаются источники блоклистов для последующей фильтрации.
