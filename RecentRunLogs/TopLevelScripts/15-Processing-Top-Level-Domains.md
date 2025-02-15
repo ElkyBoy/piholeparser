@@ -186,3 +186,7 @@ Old TLD Comparison Removed.
 ### Removing Duplicatates From TLD List.
 0 After Removing Duplicatates From TLD List.
 ____________________________________
+0 Valid TLD's Total.
+### Making Backup Copy of TLD List.
+### Checking For New TLDs.
+* No New TLD's
