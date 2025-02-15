@@ -3,7 +3,7 @@
 ### Last Run Stats
 
 * Error Setting Start Time.
-* Script Ended Sun Feb 16 00:20:41 MSK 2025
+* 
 * [Error Calculating Script Run Time.](https://github.com/ElkyBoy/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 * Error Calculating Size of AllParsed File.
 * Error Setting Average Parse Time.
