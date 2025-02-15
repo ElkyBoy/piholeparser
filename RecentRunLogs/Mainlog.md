@@ -262,3 +262,6 @@ Process Took 4 Seconds.
 Process Took 4 Seconds.
 [Details If Any](https://github.com/ElkyBoy/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
 
+Process Took 4 Seconds.
+[Details If Any](https://github.com/ElkyBoy/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
+
